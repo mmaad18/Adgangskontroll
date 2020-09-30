@@ -1,0 +1,30 @@
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\bin\Debug\Kortleser.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\bin\Debug\Kortleser.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\bin\Debug\Kortleser.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Debug\Kortleser.csprojResolveAssemblyReference.cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Debug\Adgangskontroll.hjelp.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Debug\Adgangskontroll.Kortleser.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Debug\Adgangskontroll.Properties.Resources.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Debug\Kortleser.csproj.GenerateResource.Cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Debug\Kortleser.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Debug\Kortleser.pdb
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Kortleser\Adgangskontroll\bin\Debug\Kortleser.exe.config
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Kortleser\Adgangskontroll\obj\Debug\Kortleser.exe
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Kortleser\Adgangskontroll\obj\Debug\Kortleser.pdb
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Kortleser\Adgangskontroll\bin\Debug\Kortleser.exe
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Kortleser\Adgangskontroll\bin\Debug\Kortleser.pdb
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Kortleser\Adgangskontroll\obj\Debug\Kortleser.csprojResolveAssemblyReference.cache
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Kortleser\Adgangskontroll\obj\Debug\Adgangskontroll.hjelp.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Kortleser\Adgangskontroll\obj\Debug\Adgangskontroll.Kortleser.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Kortleser\Adgangskontroll\obj\Debug\Adgangskontroll.Properties.Resources.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Kortleser\Adgangskontroll\obj\Debug\Kortleser.csproj.GenerateResource.Cache
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\bin\Debug\Kortleser.exe.config
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\obj\Debug\Kortleser.exe
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\obj\Debug\Kortleser.pdb
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\bin\Debug\Kortleser.exe
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\bin\Debug\Kortleser.pdb
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\obj\Debug\Kortleser.csprojResolveAssemblyReference.cache
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\obj\Debug\Adgangskontroll.hjelp.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\obj\Debug\Adgangskontroll.Kortleser.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\obj\Debug\Adgangskontroll.Properties.Resources.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\obj\Debug\Kortleser.csproj.GenerateResource.Cache

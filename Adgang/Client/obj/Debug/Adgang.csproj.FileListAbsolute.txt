@@ -1,0 +1,27 @@
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\Client\bin\Debug\Client.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\Client\bin\Debug\Client.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\Client\bin\Debug\Client.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\Client\obj\Debug\Adgang.csprojResolveAssemblyReference.cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\Client\obj\Debug\Client.Adgang.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\Client\obj\Debug\Adgang.csproj.GenerateResource.Cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\Client\obj\Debug\Client.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\Client\obj\Debug\Client.pdb
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\Client\bin\Debug\Client.exe.config
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\Client\obj\Debug\Client.exe
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\Client\obj\Debug\Client.pdb
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\Client\bin\Debug\Client.exe
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\Client\bin\Debug\Client.pdb
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\Client\obj\Debug\Adgang.csprojResolveAssemblyReference.cache
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\Client\obj\Debug\Client.Adgang.resources
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\Client\obj\Debug\Adgang.csproj.GenerateResource.Cache
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\bin\Debug\Adgang.exe.config
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\bin\Debug\Adgang.exe
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\bin\Debug\Adgang.pdb
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\obj\Debug\Adgang.csprojResolveAssemblyReference.cache
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\obj\Debug\Client.Adgang.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\obj\Debug\Adgang.csproj.GenerateResource.Cache
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\obj\Debug\Adgang.exe
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\obj\Debug\Adgang.pdb

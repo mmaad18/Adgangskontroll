@@ -1,0 +1,12 @@
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\bin\Release\UDP_Test_GUI.exe.config
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\obj\Release\UDP_Test_GUI.exe
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\obj\Release\UDP_Test_GUI.pdb
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\bin\Release\UDP_Test_GUI.exe
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\bin\Release\UDP_Test_GUI.pdb
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\obj\Release\KortleserDummy.csprojResolveAssemblyReference.cache
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\obj\Release\UDP_Test_GUI.Properties.Resources.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\obj\Release\UDP_Test_GUI.KortleserDummy.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\obj\Release\KortleserDummy.csproj.GenerateResource.Cache
+C:\Users\Yahya\Google Drive\#Semesteroppgave\#Ferdig\Adgang\UDP_Test_GUI\bin\Release\UDP_Test_GUI.exe.config
+C:\Users\Yahya\Google Drive\#Semesteroppgave\#Ferdig\Adgang\UDP_Test_GUI\obj\Release\UDP_Test_GUI.exe
+C:\Users\Yahya\Google Drive\#Semesteroppgave\#Ferdig\Adgang\UDP_Test_GUI\obj\Release\UDP_Test_GUI.pdb

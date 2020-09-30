@@ -1,0 +1,9 @@
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\bin\Release\Client.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\bin\Release\Client.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\bin\Release\Client.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\obj\Release\Client.Client.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\obj\Release\Client.Properties.Resources.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\obj\Release\Client.csproj.GenerateResource.Cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\obj\Release\Client.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\obj\Release\Client.pdb

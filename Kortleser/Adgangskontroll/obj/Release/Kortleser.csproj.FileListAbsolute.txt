@@ -1,0 +1,19 @@
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\bin\Release\Kortleser.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\bin\Release\Kortleser.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\bin\Release\Kortleser.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Release\Adgangskontroll.hjelp.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Release\Adgangskontroll.Kortleser.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Release\Adgangskontroll.Properties.Resources.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Release\Kortleser.csproj.GenerateResource.Cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Release\Kortleser.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Release\Kortleser.pdb
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\bin\Release\Kortleser.exe.config
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\bin\Release\Kortleser.exe
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\bin\Release\Kortleser.pdb
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\obj\Release\Adgangskontroll.hjelp.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\obj\Release\Adgangskontroll.Kortleser.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\obj\Release\Adgangskontroll.Properties.Resources.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\obj\Release\Kortleser.csproj.GenerateResource.Cache
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\obj\Release\Kortleser.exe
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\obj\Release\Kortleser.pdb
+E:\Dropbox\#Semesteroppgave\#Ferdig\Kortleser\Adgangskontroll\obj\Release\Kortleser.csprojResolveAssemblyReference.cache

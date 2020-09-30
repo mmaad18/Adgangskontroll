@@ -1,0 +1,21 @@
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\UDP_Test_GUI\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.Properties.Resources.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\UDP_Test_GUI\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.Server.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.Properties.Resources.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.Server.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.pdb

@@ -1,0 +1,27 @@
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\UDP_Test_GUI\obj\Debug\KortleserDummy.csprojResolveAssemblyReference.cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.Properties.Resources.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.KortleserDummy.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\UDP_Test_GUI\obj\Debug\KortleserDummy.csproj.GenerateResource.Cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.pdb
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.exe.config
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.exe
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.pdb
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.exe
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.pdb
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\UDP_Test_GUI\obj\Debug\KortleserDummy.csprojResolveAssemblyReference.cache
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.Properties.Resources.resources
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.KortleserDummy.resources
+E:\Dropbox\#Semesteroppgave\Adgang ((App))\Adgang\Adgang\UDP_Test_GUI\obj\Debug\KortleserDummy.csproj.GenerateResource.Cache
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.exe.config
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.exe
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.pdb
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.exe
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\bin\Debug\UDP_Test_GUI.pdb
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\obj\Debug\KortleserDummy.csprojResolveAssemblyReference.cache
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.Properties.Resources.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\obj\Debug\UDP_Test_GUI.KortleserDummy.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\UDP_Test_GUI\obj\Debug\KortleserDummy.csproj.GenerateResource.Cache

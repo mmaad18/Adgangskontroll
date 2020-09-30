@@ -1,0 +1,12 @@
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\bin\Release\Adgang.exe.config
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\bin\Release\Adgang.exe
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\bin\Release\Adgang.pdb
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\obj\Release\Adgang.csprojResolveAssemblyReference.cache
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\obj\Release\Client.Adgang.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\obj\Release\Client.Properties.Resources.resources
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\obj\Release\Adgang.csproj.GenerateResource.Cache
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\obj\Release\Adgang.exe
+E:\Dropbox\#Semesteroppgave\#Ferdig\Adgang\Adgang\Client\obj\Release\Adgang.pdb
+C:\Users\Yahya\Google Drive\#Semesteroppgave\#Ferdig\Adgang\Client\bin\Release\Adgang.exe.config
+C:\Users\Yahya\Google Drive\#Semesteroppgave\#Ferdig\Adgang\Client\obj\Release\Adgang.exe
+C:\Users\Yahya\Google Drive\#Semesteroppgave\#Ferdig\Adgang\Client\obj\Release\Adgang.pdb

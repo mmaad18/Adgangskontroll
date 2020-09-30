@@ -1,0 +1,80 @@
+Kjører lytting...
+Koblet til kortleser 1234:Ytterdør på adresse. 127.0.0.1:2483
+KortleserID: 1234	Plassering: Ytterdør	Klient: 127.0.0.1:2483
+Kjører lytting...
+Innloggingsforsøk fra 127.0.0.1:2483:	$I:1234:1234:1230
+Kjører lytting...
+Koblet til kortleser 1234:Ytterdør på adresse. 127.0.0.1:2624
+KortleserID: 1234	Plassering: Ytterdør	Klient: 127.0.0.1:2624
+Kjører lytting...
+Innloggingsforsøk fra 127.0.0.1:2624:	$I:1234:4321
+Gyldig innloggingsinformasjon
+Innloggingsforsøk fra 127.0.0.1:2624:	$I:1234:1111
+Ugyldig innloggingsinformasjon
+Kjører lytting...
+Koblet til kortleser 1234:Ytterdør på adresse. 127.0.0.1:4451
+KortleserID: 1234	Plassering: Ytterdør	Klient: 127.0.0.1:4451
+Kjører lytting...
+Innloggingsforsøk fra 127.0.0.1:4451:	Hello World!
+Innloggingsforsøk fra 127.0.0.1:4451:	Hello World!
+Innloggingsforsøk fra 127.0.0.1:4451:	$I:1234:1234:1230
+Gyldig innloggingsinformasjon
+Innloggingsforsøk fra 127.0.0.1:4451:	$I:1234:1234:1632
+Ugyldig innloggingsinformasjon
+Innloggingsforsøk fra 127.0.0.1:4451:	$I:1234:1234:1230
+Gyldig innloggingsinformasjon
+Innloggingsforsøk fra 127.0.0.1:4451:	$I:1234:1234:1564
+Ugyldig innloggingsinformasjon
+Innloggingsforsøk fra 127.0.0.1:4451:	$A: Hei på deg
+24/11/2016 15:32:16	Index was outside the bounds of the array.
+A blocking operation was interrupted by a call to WSACancelBlockingCall
+Kjører lytting...
+Koblet til kortleser 1234:Ytterdør på adresse. 127.0.0.1:4681
+KortleserID: 1234	Plassering: Ytterdør	Klient: 127.0.0.1:4681
+Kjører lytting...
+Innloggingsforsøk fra 127.0.0.1:4681:	$A:1234:Hei på deg!
+Alarm: Hei på deg! KortleserID: 1234
+Innloggingsforsøk fra 127.0.0.1:4681:	$S:1234:Hei på deg!
+Status: Hei på deg! KortleserID: 1234
+Innloggingsforsøk fra 127.0.0.1:4681:	$S:1234:Hei på deg!
+Status: Hei på deg! KortleserID: 1234
+Innloggingsforsøk fra 127.0.0.1:4681:	$S:1234:Hei på deg!
+Status: Hei på deg! KortleserID: 1234
+Innloggingsforsøk fra 127.0.0.1:4681:	
+24/11/2016 15:39:03	Index was outside the bounds of the array.
+A blocking operation was interrupted by a call to WSACancelBlockingCall
+Kjører lytting...
+Koblet til kortleser 1234:Ytterdør på adresse. 127.0.0.1:4747
+KortleserID: 1234	Plassering: Ytterdør	Klient: 127.0.0.1:4747
+Kjører lytting...
+Innloggingsforsøk fra 127.0.0.1:4747:	$S:1234:Hei på deg!
+Status: Hei på deg! KortleserID: 1234
+Innloggingsforsøk fra 127.0.0.1:4747:	
+24/11/2016 15:40:37	Index was outside the bounds of the array.
+A blocking operation was interrupted by a call to WSACancelBlockingCall
+Kjører lytting...
+Koblet til kortleser 1234:Ytterdør på adresse. 127.0.0.1:5149
+KortleserID: 1234	Plassering: Ytterdør	Klient: 127.0.0.1:5149
+Kjører lytting...
+Innloggingsforsøk fra 127.0.0.1:5149:	
+24/11/2016 15:53:42	Index was outside the bounds of the array.
+Koblet til kortleser 1234:Ytterdør på adresse. 158.37.236.38:17030
+KortleserID: 1234	Plassering: Ytterdør	Klient: 158.37.236.38:17030
+Kjører lytting...
+Innloggingsforsøk fra 158.37.236.38:17030:	
+24/11/2016 15:54:33	Index was outside the bounds of the array.
+Koblet til kortleser 1234:Ytterdør på adresse. 158.37.236.38:17031
+KortleserID: 1234	Plassering: Ytterdør	Klient: 158.37.236.38:17031
+Kjører lytting...
+Innloggingsforsøk fra 158.37.236.38:17031:	$A:1234:Lås brutt opp
+Alarm: Lås brutt opp KortleserID: 1234
+Innloggingsforsøk fra 158.37.236.38:17031:	$S:1234:Alt ok
+Status: Alt ok KortleserID: 1234
+Innloggingsforsøk fra 158.37.236.38:17031:	$A:1234:Dør åpen
+Alarm: Dør åpen KortleserID: 1234
+Koblet til kortleser 1234:Ytterdør på adreKjører lytting...
+Koblet til kortleser 1234:Ytterdør på adresse. 127.0.0.1:9066
+KortleserID: 1234	Plassering: Ytterdør	Klient: 127.0.0.1:9066
+Kjører lytting...
+Innloggingsforsøk fra 127.0.0.1:9066:	
+Kjører lytting...

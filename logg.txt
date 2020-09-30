@@ -1,0 +1,7 @@
+01.12.2016 00.19.01: @1234: Kortleser starter...
+01.12.2016 00.19.01: @1234: Starter UDP lytter
+01.12.2016 00.19.12: @1234: Kobler til sentral...
+01.12.2016 00.19.13: @1234: No connection could be made because the target machine actively refused it 127.0.0.1:9090
+01.12.2016 00.19.22: @1234: Object reference not set to an instance of an object.
+01.12.2016 00.19.29: @1234: Scanner kort 1234
+01.12.2016 00.19.32: @1234: TcpCient = NULL

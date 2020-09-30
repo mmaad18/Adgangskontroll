@@ -1,0 +1,92 @@
+24.11.2016 16:45:44: 1234: Kortleser starter...
+24.11.2016 16:45:44: 1234: Starter UDP lytter
+24.11.2016 20.57.08: @1234: Kortleser starter...
+24.11.2016 20.57.08: @1234: Starter UDP lytter
+24.11.2016 21.08.47: @1234: Kortleser starter...
+24.11.2016 21.08.47: @1234: Starter UDP lytter
+24.11.2016 21.08.56: @1234: Access to the port 'COM4' is denied.
+24.11.2016 21.08.58: @1234: Serieport lytter på COM3
+24.11.2016 21.08.58: @simsim: $A001B20161124C090858D00000000E00000000F0500G0333H0500I020J020#
+24.11.2016 21.08.59: @simsim: $A001B20161124C090859D00000000E00000100F0500G0333H0500I020J020#
+24.11.2016 21.09.06: @1234: Scanner kort 1234
+24.11.2016 21.09.07: @simsim: $A001B20161124C090907D00000000E00001100F0500G0333H0500I020J020#
+24.11.2016 21.09.13: @1234: Kobler til sentral...
+24.11.2016 21.09.14: @1234: No connection could be made because the target machine actively refused it 127.0.0.1:9090
+24.11.2016 21.09.53: @simsim: $A001B20161124C090953D00000000E00000100F0500G0333H0500I020J020#
+24.11.2016 21.10.01: @1234: Kobler til sentral...
+24.11.2016 21.10.01: @Sentral: Tilkobling vellykket
+24.11.2016 21.10.12: @1234: Kobler fra sentral...
+24.11.2016 21.13.37: @1234: Kortleser starter...
+24.11.2016 21.13.37: @1234: Starter UDP lytter
+24.11.2016 21.13.40: @1234: Access to the port 'COM4' is denied.
+24.11.2016 21.13.40: @1234: Access to the port 'COM4' is denied.
+24.11.2016 21.13.41: @1234: Kobler til sentral...
+24.11.2016 21.13.41: @Sentral: Tilkobling vellykket
+24.11.2016 21.13.41: @1234: Access to the port 'COM4' is denied.
+24.11.2016 21.13.42: @1234: Access to the port 'COM4' is denied.
+24.11.2016 21.13.44: @1234: Serieport lytter på COM3
+24.11.2016 21.13.44: @simsim: $A001B20161124C091344D00000000E00000100F0500G0333H0500I020J020#
+24.11.2016 21.14.02: @App: 1234:4321:9090
+24.11.2016 21.14.08: @App: 1234:4321:9090
+24.11.2016 21.14.14: @1234: Kobler fra sentral...
+24.11.2016 21.14.14: @1234: Unable to read data from the transport connection: A blocking operation was interrupted by a call to WSACancelBlockingCall.
+24.11.2016 21.14.14: @1234: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'.
+24.11.2016 21.14.14: @Sentral: $S:Feil ved kommunikasjon med sentralen
+24.11.2016 21.14.14: @1234: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'.
+24.11.2016 21.14.16: @1234: Kobler til sentral...
+24.11.2016 21.14.16: @Sentral: Tilkobling vellykket
+24.11.2016 21.14.20: @1234: Kobler fra sentral...
+24.11.2016 21.14.20: @1234: Unable to read data from the transport connection: A blocking operation was interrupted by a call to WSACancelBlockingCall.
+24.11.2016 21.14.20: @1234: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'.
+24.11.2016 21.14.20: @Sentral: $S:Feil ved kommunikasjon med sentralen
+24.11.2016 21.14.20: @1234: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.TcpClient'.
+24.11.2016 21.14.32: @App: 1234:4321:9090
+24.11.2016 21.14.33: @App: 1234:4321:9090
+24.11.2016 21.14.33: @App: 1234:4321:9090
+24.11.2016 21.14.34: @App: 1234:4321:9090
+24.11.2016 21.14.34: @App: 1234:4321:9090
+24.11.2016 21.14.51: @1234: Kobler til sentral...
+24.11.2016 21.14.51: @Sentral: Tilkobling vellykket
+24.11.2016 21.15.03: @App: 1234:4321:9090
+24.11.2016 21.15.08: @1234: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+24.11.2016 21.15.08: @1234: The operation is not allowed on non-connected sockets.
+24.11.2016 21.15.08: @Sentral: $S:Feil ved kommunikasjon med sentralen
+24.11.2016 21.15.08: @1234: The operation is not allowed on non-connected sockets.
+24.11.2016 21.15.47: @1234: Serieport lukket
+24.11.2016 21.34.29: @1234: Kortleser starter...
+24.11.2016 21.34.29: @1234: Starter UDP lytter
+24.11.2016 21.34.32: @1234: Kobler til sentral...
+24.11.2016 21.34.32: @Sentral: Tilkobling vellykket
+24.11.2016 21.34.32: @Sentral: $V:Dummysentral...
+24.11.2016 21.34.32: @Sentral: Status mottatt
+24.11.2016 21.34.39: @1234: Access to the port 'COM4' is denied.
+24.11.2016 21.34.41: @1234: Serieport lytter på COM3
+24.11.2016 21.34.43: @simsim: $A001B20161124C093443D00000000E00000100F0500G0500H0500I020J020#
+24.11.2016 21.34.48: @App: 1234:4321:9090
+24.11.2016 21.34.48: @Sentral: Innlogging "OK"
+24.11.2016 21.34.49: @simsim: $A001B20161124C093449D00000000E00000000F0500G0500H0500I020J020#
+24.11.2016 21.34.52: @simsim: $A001B20161124C093452D00000000E00000010F0500G0500H0500I020J020#
+24.11.2016 21.35.38: @1234: Alarm: Dør åpen
+24.11.2016 21.35.38: @Sentral: Alarm mottatt
+24.11.2016 21.35.38: @1234: Alarm :Resatt eksternt
+24.11.2016 21.35.38: @Sentral: Status mottatt
+24.11.2016 21.35.39: @1234: Alarm: Dør åpen
+24.11.2016 21.35.39: @Sentral: Alarm mottatt
+24.11.2016 21.35.39: @simsim: $A001B20161124C093539D00000000E00000011F0500G0500H0500I020J020#
+24.11.2016 21.37.16: @simsim: $A001B20161124C093716D00000000E00000001F0500G0500H0500I020J020#
+24.11.2016 21.37.17: @simsim: $A001B20161124C093717D00000000E00000101F0500G0500H0500I020J020#
+24.11.2016 21.37.17: @1234: Alarm :Alt ok
+24.11.2016 21.37.17: @Sentral: Status mottatt
+24.11.2016 21.37.18: @simsim: $A001B20161124C093718D00000000E00000100F0500G0500H0500I020J020#
+24.11.2016 21.40.39: @1234: Kortleser starter...
+24.11.2016 21.40.39: @1234: Starter UDP lytter
+24.11.2016 21.41.05: @1234: Kortleser starter...
+24.11.2016 21.41.05: @1234: Starter UDP lytter
+24.11.2016 22.13.16: @1234: Kortleser starter...
+24.11.2016 22.13.16: @1234: Starter UDP lytter
+24.11.2016 22.14.06: @1234: Kortleser starter...
+24.11.2016 22.14.06: @1234: Starter UDP lytter

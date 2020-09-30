@@ -1,0 +1,21 @@
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\Client\bin\Debug\Client.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\Client\bin\Debug\Client.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\Client\bin\Debug\Client.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\Client\obj\Debug\Client.Client.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\Client\obj\Debug\Client.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\UDP_Test_GUI\Client\obj\Debug\Client.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\bin\Debug\Client.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\bin\Debug\Client.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\bin\Debug\Client.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\obj\Debug\Client.Client.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\obj\Debug\Client.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\Client\obj\Debug\Client.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\Client\bin\Debug\Client.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\Client\obj\Debug\Client.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\Adgang\Client\obj\Debug\Client.pdb

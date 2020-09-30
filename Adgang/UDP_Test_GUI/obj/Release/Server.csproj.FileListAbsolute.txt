@@ -1,0 +1,9 @@
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\bin\Release\UDP_Test_GUI.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\bin\Release\UDP_Test_GUI.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\bin\Release\UDP_Test_GUI.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\obj\Release\Server.csprojResolveAssemblyReference.cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\obj\Release\UDP_Test_GUI.Properties.Resources.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\obj\Release\UDP_Test_GUI.Server.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\obj\Release\Server.csproj.GenerateResource.Cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\obj\Release\UDP_Test_GUI.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Visual Studio\# UDP\UDP_Test_GUI\UDP_Test_GUI\obj\Release\UDP_Test_GUI.pdb

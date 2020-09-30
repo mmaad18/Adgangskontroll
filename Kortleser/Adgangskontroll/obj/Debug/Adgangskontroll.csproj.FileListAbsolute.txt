@@ -1,0 +1,24 @@
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll\Adgangskontroll\bin\Debug\Adgangskontroll.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll\Adgangskontroll\obj\Debug\Adgangskontroll.Kortleser.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll\Adgangskontroll\obj\Debug\Adgangskontroll.Properties.Resources.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll\Adgangskontroll\obj\Debug\Adgangskontroll.SerieportSetup.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll\Adgangskontroll\obj\Debug\Adgangskontroll.SentralSetup.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll\Adgangskontroll\obj\Debug\Adgangskontroll.csproj.GenerateResource.Cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll\Adgangskontroll\bin\Debug\Adgangskontroll.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll\Adgangskontroll\bin\Debug\Adgangskontroll.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll\Adgangskontroll\obj\Debug\Adgangskontroll.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll\Adgangskontroll\obj\Debug\Adgangskontroll.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll\Adgangskontroll\obj\Debug\Adgangskontroll.csprojResolveAssemblyReference.cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll - Copy\Adgangskontroll\bin\Debug\Adgangskontroll.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll - Copy\Adgangskontroll\obj\Debug\Adgangskontroll.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll - Copy\Adgangskontroll\obj\Debug\Adgangskontroll.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll - Copy\Adgangskontroll\bin\Debug\Adgangskontroll.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll - Copy\Adgangskontroll\bin\Debug\Adgangskontroll.pdb
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll - Copy\Adgangskontroll\obj\Debug\Adgangskontroll.csprojResolveAssemblyReference.cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll - Copy\Adgangskontroll\obj\Debug\Adgangskontroll.Kortleser.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll - Copy\Adgangskontroll\obj\Debug\Adgangskontroll.Properties.Resources.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll - Copy\Adgangskontroll\obj\Debug\Adgangskontroll.csproj.GenerateResource.Cache
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Adgangskontroll - Copy\Adgangskontroll\obj\Debug\Adgangskontroll.hjelp.resources
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\bin\Debug\Adgangskontroll.exe.config
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Debug\Adgangskontroll.exe
+E:\Dropbox\Skole\ELE-107 - Industriell IT\Semesteroppgave\Kortleser\Adgangskontroll\obj\Debug\Adgangskontroll.pdb

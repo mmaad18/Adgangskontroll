@@ -1,0 +1,61 @@
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.exe.config
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.exe
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.pdb
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.csprojResolveAssemblyReference.cache
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.Properties.Resources.resources
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.csproj.GenerateResource.Cache
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.exe
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.pdb
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.Valgvindu.resources
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.RegVindu.resources
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1 - Copy\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.exe.config
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1 - Copy\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.exe
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1 - Copy\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.pdb
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1 - Copy\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.exe
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1 - Copy\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.pdb
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1 - Copy\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.csprojResolveAssemblyReference.cache
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1 - Copy\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.Properties.Resources.resources
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1 - Copy\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.Valgvindu.resources
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral1 - Copy\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.csproj.GenerateResource.Cache
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral2\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.exe.config
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral2\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.exe
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral2\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.pdb
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral2\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.exe
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral2\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.pdb
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral2\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.csprojResolveAssemblyReference.cache
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral2\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.Properties.Resources.resources
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral2\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.Valgvindu.resources
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral2\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.csproj.GenerateResource.Cache
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral3\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.exe.config
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral3\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.exe
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral3\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.pdb
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral3\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.exe
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral3\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.pdb
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral3\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.csprojResolveAssemblyReference.cache
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral3\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.Properties.Resources.resources
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral3\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.Valgvindu.resources
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral3\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.csproj.GenerateResource.Cache
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral4\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.exe
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral4\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.pdb
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral4\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.exe
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral4\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.pdb
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral4\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.csprojResolveAssemblyReference.cache
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral4\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.Properties.Resources.resources
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral4\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.Valgvindu.resources
+C:\Users\Yahya\Dropbox\HiB\Programmering\C#\RandomTests\SemesteroppgaveSentral4\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.csproj.GenerateResource.Cache
+E:\Dropbox\#Semesteroppgave\SemesteroppgaveSentral4\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.exe
+E:\Dropbox\#Semesteroppgave\SemesteroppgaveSentral4\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.pdb
+E:\Dropbox\#Semesteroppgave\SemesteroppgaveSentral4\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.exe
+E:\Dropbox\#Semesteroppgave\SemesteroppgaveSentral4\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.pdb
+E:\Dropbox\#Semesteroppgave\SemesteroppgaveSentral4\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.csprojResolveAssemblyReference.cache
+E:\Dropbox\#Semesteroppgave\SemesteroppgaveSentral4\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.Properties.Resources.resources
+E:\Dropbox\#Semesteroppgave\SemesteroppgaveSentral4\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.Valgvindu.resources
+E:\Dropbox\#Semesteroppgave\SemesteroppgaveSentral4\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.csproj.GenerateResource.Cache
+C:\Users\Yahya\Google Drive\#Semesteroppgave\#Ferdig\Sentral\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.exe
+C:\Users\Yahya\Google Drive\#Semesteroppgave\#Ferdig\Sentral\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.pdb
+C:\Users\Yahya\Google Drive\#Semesteroppgave\#Ferdig\Sentral\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.exe
+C:\Users\Yahya\Google Drive\#Semesteroppgave\#Ferdig\Sentral\SemesteroppgaveSentral1\bin\Debug\SemesteroppgaveSentral1.pdb
+C:\Users\Yahya\Google Drive\#Semesteroppgave\#Ferdig\Sentral\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.csprojResolveAssemblyReference.cache
+C:\Users\Yahya\Google Drive\#Semesteroppgave\#Ferdig\Sentral\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.Properties.Resources.resources
+C:\Users\Yahya\Google Drive\#Semesteroppgave\#Ferdig\Sentral\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.Valgvindu.resources
+C:\Users\Yahya\Google Drive\#Semesteroppgave\#Ferdig\Sentral\SemesteroppgaveSentral1\obj\Debug\SemesteroppgaveSentral1.csproj.GenerateResource.Cache
